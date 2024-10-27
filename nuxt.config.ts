@@ -4,4 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   modules: ["@nuxt/ui", "@pinia/nuxt"],
   css: ["./assets/css/fonts.css"],
+  plugins: [
+    '~/plugins/toastification.js',
+  ],
 });

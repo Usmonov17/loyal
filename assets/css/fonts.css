@@ -22,3 +22,13 @@
   font-family: 'Roboto-Medium';
   src: url('../fonts/Roboto-Medium.ttf');
 }
+
+@font-face {
+  font-family: 'Dm-Serif-Regular';
+  src: url('../fonts/DMSerifText-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Dm-Serif-Italic';
+  src: url('../fonts/DMSerifText-Italic.ttf');
+}
