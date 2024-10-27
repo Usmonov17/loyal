@@ -1,5 +1,5 @@
 <template>
-  Home
+  Salom
 </template>
 
 <script setup lang="ts">
